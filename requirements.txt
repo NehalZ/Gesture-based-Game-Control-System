@@ -1,0 +1,4 @@
+#requirements for this project
+make sure you have a working camera system 
+
+Install the required python modules 
